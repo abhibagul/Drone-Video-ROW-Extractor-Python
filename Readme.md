@@ -1,7 +1,9 @@
 ﻿# Drone-Video-ROW-Extractor-Python
 
 <a href="https://www.youtube.com/watch?v=sk0fxf8hDyk" target="_blank">
+  
 ![Extract ROW from drone videos using python](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiAg07GSs1o4QgniEqwrSHPgzGCiVhG0zwnIKjKGpcUoPhaL8TzqXmje2983O8ZaL4n-utjdikOQkNCMcsySb1azdj4DG2_JHKdkEGnaoPsJcDQHT3e5C8zh9hIJTA5SCgInHPNXB4i6NG9wCM20coltrl0ekcBio92uBLnIWtsEcMtuf2RMiZQbuE/s1600/player.PNG)
+  
 </a>
 This python script helps in getting the coordinates for the ROW.
 
