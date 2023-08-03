@@ -24,7 +24,9 @@ Now we have to convert this json to line shape that AE can understand. To do tha
 
 - Open After Effects and click the file menu > scripts > install scripts file
 - Select the "ROW Plotter v1.jsx" file provided
-- Click on the Window menu and select "Row Plotter v1" and you can dock this window wherever you want inside AE.
+- Click on the Window menu and select "Row Plotter v1" and you can dock this window wherever you want inside AE. <img alt="" border="0" data-original-height="416" data-original-width="606" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Xgr_S-dq3oRKRRpOGFNngcK7hj-WPgq0PV9M0ZxNlSuz2aGW9CUuXjahUR2A2PdAJ8D_Ob-_aNoQyaiNNDXYSVIJxIJijMhz_3Gev8TSiWo_w0yb-8aaqsNsFcM-cIeRTKP0e3qtvmoFDdKg4zpXucKCvEy4hhM9DmL0Kys9SitCxo3m3g68_aq-xDVe/s1600/aeplugin.JPG"/>
 - Drag and drop the JSON file and respective video file. Right click on the video and create a composition.
 - In the plugin "Refresh" and select the respective composition and its json file.
+  <img alt="" border="0" data-original-height="998" data-original-width="1040" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dE3ZKszWxVP2k5rtFdqZSOxwz06udBLytZ_ph2uL6LvNwNEn7u1Q_xa_l40gEyEIiMNFPsKPHlUeQBllW61hZhYCn24S_oYF-PtZ7OCpKC5uKvPudnkSxITDedScJZ2rfaa8kvQ2uD0O7qaiTxLIUP-AkSNfb7uJsn7r8S1JrBBgXxBBL2EwTJYhCq1i/s1600/aeplug2.JPG"/>
 - Click on "Apply". It may take time depending on the system configuration and AE might freeze so make sure to save the file before making any changes.
+      <img alt="" border="0" data-original-height="994" data-original-width="1033" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsKSAE2YCjOTg2WVuU6Ggbue3PGgxVvDhaMwJ5zRkkAep_dE1o8jDloa2BqLU1ZBZdOBakhqnGvxUM0CLeg3BejLTob-YPYLYtNF2PCcmF3X8coUrGZy2svaK-SEwW7fPbGxpN6O5hpBvKREfCYOuD6jvuomFr_yJl6mJWd3R0d3o70Om5bUvfPW24wJfW/s1600/aeplugin3.JPG"/>
