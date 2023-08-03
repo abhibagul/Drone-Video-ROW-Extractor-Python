@@ -20,4 +20,11 @@ This python script helps in getting the coordinates for the ROW.
 
 ## What after JSON?
 
-This json can be used in conjuction with my other after effects script below,
+Now we have to convert this json to line shape that AE can understand. To do that,
+
+- Open After Effects and click the file menu > scripts > install scripts file
+- Select the "ROW Plotter v1.jsx" file provided
+- Click on the Window menu and select "Row Plotter v1" and you can dock this window wherever you want inside AE.
+- Drag and drop the JSON file and respective video file. Right click on the video and create a composition.
+- In the plugin "Refresh" and select the respective composition and its json file.
+- Click on "Apply". It may take time depending on the system configuration and AE might freeze so make sure to save the file before making any changes.
